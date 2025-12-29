@@ -3,6 +3,9 @@ package com.basics.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import java.util.Arrays;
+
+
 @SpringBootApplication
 public class DemoApplication {
 
@@ -10,8 +13,10 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("项目启动了！！！");
 
-	}
+    }
+
 
 
 
 }
+

@@ -1,4 +1,4 @@
-package com.basics.demo;
+package com.basics.demo.day1;
 
 /***
  * @Description:类型转换
